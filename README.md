@@ -19,7 +19,7 @@
 
   ##
   
-<div>
+![snake gif](https://github.com/peribarros/peribarros/blob/output/github-contribution-grid-snake.svg)
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=peribarros&show_icons=true&theme=blue_navy&locale=pt-br" />
 </a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peribarros&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=blue_navy" />
